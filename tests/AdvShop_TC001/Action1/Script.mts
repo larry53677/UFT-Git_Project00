@@ -4,4 +4,4 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebCheckBox("manufactur
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("$129.00").Click @@ script infofile_;_ZIP::ssf8.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement").Click @@ script infofile_;_ZIP::ssf9.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click
-Wait 2
+Wait 1
